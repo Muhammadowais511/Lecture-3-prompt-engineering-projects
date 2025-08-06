@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 https://github.com/Muhammadowais511/Lecture-3-prompt-engineering-projects/blob/main/Prompt%20engineering%20Project/Prompt%20engineering%20presentation.pptx
-
+https://github.com/Muhammadowais511/Lecture-3-prompt-engineering-projects/blob/main/Prompt%20engineering%20Project/prompt%20engineering%20presentation.pdf
 This repository showcases my basic skills in prompt engineering. It includes structured prompts, their outputs, examples of prompt refinement, and the effect of model settings like temperature, top-p, and penalties.
 
 ## Contents:
